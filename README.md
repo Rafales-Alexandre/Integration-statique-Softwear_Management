@@ -3,7 +3,7 @@
 
 
 
-# Intégration statique NFT
+# Intégration statique Softwear Management
 
 Ce repository contient le starter Integration Software management disponible sur [Microlead.fr](https://microlead.fr)
 
@@ -11,7 +11,7 @@ Ce repository contient le starter Integration Software management disponible sur
 
 - [HTML niveau 9](https://microlead.fr/echelles/html)
 - [CSS niveau 9](https://microlead.fr/echelles/css)
-- [Javascript niveau 8](https://microlead.fr/echelles/javascript)
+
 
 ## Importation dans figma
 Prenez les fichiers SVG dans le dossier figma, glissez/déposez sur dans le figma pour avoir acces à la maquette.
@@ -20,7 +20,6 @@ Prenez les fichiers SVG dans le dossier figma, glissez/déposez sur dans le figm
 
 <p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/1.png" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/2.png" alt="template 3" width="300" /></p>
 
-<p align="center"><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/3.svg" alt="template 3" width="300" /><img src="https://github.com/Rafales-Alexandre/NFT_Landing_page-HTML-CSS-JS/blob/main/asset/img/NFT Collection Landing Page Template/4.png" alt="template 3" width="300" /></p>
 
 ## Bug & améliorations
 
