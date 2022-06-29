@@ -5,7 +5,7 @@
 
 # Intégration statique NFT
 
-Ce repository contient le starter Integration NFT disponible sur [Microlead.fr](https://microlead.fr)
+Ce repository contient le starter Integration Software management disponible sur [Microlead.fr](https://microlead.fr)
 
 ## Prérequis
 
